@@ -1,0 +1,10 @@
+# Dataset files
+DATA_SPOTIFY/*.csv
+DATA_SPOTIFY/*.zip
+NOTEBOOK/*.csv
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
