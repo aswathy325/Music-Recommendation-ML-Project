@@ -7,4 +7,4 @@ NOTEBOOK/*.csv
 
 # Python cache
 __pycache__/
-*.pyc
+*.pycNOTEBOOK_v2/random_forest_genre.pkl
