@@ -8,3 +8,15 @@ NOTEBOOK/*.csv
 # Python cache
 __pycache__/
 *.pycNOTEBOOK_v2/random_forest_genre.pkl
+# Dataset files
+*.csv
+
+# Machine Learning model files
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
